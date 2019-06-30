@@ -18,7 +18,7 @@ Flutter Go Python Docker
 ## 学习计划
 15章，周更（可能调整）
 ### 数据爬虫 Python Scrapy
-1. MySQL和数据库设计
+1. [MySQL和数据库设计](articles/1.1%20MySQL和数据库设计.md)
 2. Scrapy的安装和使用
 3. XXX爬虫实例
 
